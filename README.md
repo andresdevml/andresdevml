@@ -6,7 +6,7 @@ My name is Andrés Chacón, I am a programmer with special interest in Machine L
 
 * Recommender systems
 * Classification and regression models
-* Time series prediction
+* Time series forecasting
 * Clustering
 * Anomaly detection
 
