@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**huachibigote/huachibigote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrés Chacón, I am a programmer with special interest in Machine Learning and Data Science.
 
-Here are some ideas to get you started:
+# Interests 🫀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Recommender systems
+* Classification and regression models
+* Time series prediction
+* Clustering
+* Anomaly detection
+
+# skills 🏹
+
+### Languages
+
+* Python
+* Matlab
+
+### ML/DL
+
+* Tensor Flow
+* Keras
+* Pytorch
+* Xgboost
+* Optuna
+* Pycarest
+* Scikit learn
+* Numpy
+* Pandas
+* Scipy
+* Matplotlib
+* Seaborn
+
+### Tools and technologies
+
+* Linux
+* Git
+* Docker
+* Sqlite
+* Flask
+
