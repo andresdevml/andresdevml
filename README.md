@@ -19,24 +19,14 @@ My name is Andrés Chacón, I am a programmer with special interest in Machine L
 
 ### ML/DL
 
-* Tensor Flow
-* Keras
-* Pytorch
-* Xgboost
-* Optuna
-* Pycarest
-* Scikit learn
-* Numpy
-* Pandas
-* Scipy
-* Matplotlib
-* Seaborn
+* Tensor Flow | Keras | Pytorch
+* Scikit Learn | Xgboost | Pycarest | Optuna
+* Numpy | Pandas | Scipy
+* Matplotlib | Seaborn
 
 ### Tools and technologies
 
-* Linux
-* Git
-* Docker
+* Linux | Git | Docker
 * Sqlite
 * Flask
 
