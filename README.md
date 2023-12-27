@@ -29,4 +29,5 @@ My name is Andrés Chacón, I am a programmer with special interest in Machine L
 * Linux | Git | Docker
 * Sqlite
 * Flask
+* Beautiful Soup | Selenium 
 
