@@ -1,33 +1,33 @@
 # Hello 👋
 
-My name is Andrés Chacón, I am a programmer with special interest in Machine Learning and Data Science.
+My name is Andrés Chacón. I am a Data Scientist and Electrical Engineer.
 
-# Interests 🫀
+## 🔬 Interests
 
-* Recommender systems
-* Classification and regression models
-* Time series forecasting
-* Clustering
-* Anomaly detection
+- Data-driven Engineering / Science
+- Deep Learning
+- Machine Learning
+- Foundation Models
+- IoT
 
-# skills 🏹
+## 💻 Languages
 
-### Languages
+- Python | C/C++
 
-* Python
-* Matlab
+## 🧠 ML / DL
 
-### ML/DL
+- JAX | TensorFlow | Keras
+- PyTorch | Hugging Face
+- Scikit-Learn | XGBoost | Optuna
+- NumPy | Pandas | SciPy
+- Matplotlib | Seaborn
 
-* Tensor Flow | Keras 
-* Scikit Learn | Xgboost | Pycarest | Optuna
-* Numpy | Pandas | Scipy
-* Matplotlib | Seaborn
+## 🛠️ Tools & Technologies
 
-### Tools and technologies
-
-* Linux | Git | Docker
-* Sqlite
-* Flask
-* Beautiful Soup | Selenium 
-
+- Linux | Git | Docker | VPS Management
+- FastAPI | Streamlit
+- PostgreSQL
+- Apache Airflow | MLflow
+- Beautiful Soup | Selenium
+- Microcontrollers
+- LangChain | OpenCode (AI Agents)
