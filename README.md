@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Andrés Chacón. I am a Data Scientist and Electrical Engineer.
+My name is Andrés Chacón. I am a Data Scientist and AI Engineer.
 
 ## 🔬 Interests
 
@@ -8,13 +8,13 @@ My name is Andrés Chacón. I am a Data Scientist and Electrical Engineer.
 - Deep Learning
 - Machine Learning
 - Foundation Models
-- IoT
+- Agents Systems
 
 ## 💻 Languages
 
-- Python | C/C++
+- Python
 
-## 🧠 ML / DL
+## 🧠 ML / DL / DS
 
 - JAX | TensorFlow | Keras
 - PyTorch | Hugging Face
@@ -29,5 +29,4 @@ My name is Andrés Chacón. I am a Data Scientist and Electrical Engineer.
 - PostgreSQL
 - Apache Airflow | MLflow
 - Beautiful Soup | Selenium
-- Microcontrollers
-- LangChain | OpenCode (AI Agents)
+- LangChain | LangGraph | LangSmith
